@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+HackMD [Comparison](https://hackmd.io/@SZid34XfRLeFQVAqsg7WZw/BkkfTm2bL) 
+
 ## Getting Started
 
 Set up Java environment as : 
