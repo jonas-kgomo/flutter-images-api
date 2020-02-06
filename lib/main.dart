@@ -11,8 +11,6 @@ import 'package:http/http.dart' as http;
 Future<List<Photo>> fetchPhotos(http.Client client) async {
 
 
-  // String token = '6fbb61876dcfbf4a3b9a84563d4afcf6090f757922b7ebccb5fb5da85f1210f6';
-
 
   final response =
       await client.get(
